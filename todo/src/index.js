@@ -4,6 +4,7 @@ import App from './App'
 import { Provider } from 'react-redux'
 import { createStore } from 'redux'
 import reducer from './reducer'
+import './index.css'
 
 
 ReactDOM.render(
